@@ -4,7 +4,6 @@ const config: PlaywrightTestConfig = {
 
   globalSetup: "./global-setup.ts",
   testMatch: ["tests/form-number-input.test.ts"],
-
  
   timeout: 1 * 50 * 1000,
   expect: {
