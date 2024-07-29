@@ -1,0 +1,16 @@
+{
+  "name": "vestdapp-testautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@applitools/eyes-playwright": "^1.28.1",
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.12.7",
+    "dotenv": "^16.4.5"
+  }
+}
